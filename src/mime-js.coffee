@@ -6,7 +6,7 @@
     License: X11/MIT
 ###
 
-window.Mime = do ->
+export createMimeMessage = do ->
 
   # *********************************
   # Create Mime Text from Mail Object
