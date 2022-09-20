@@ -6,7 +6,7 @@
     License: X11/MIT
 ###
 
-export createMimeMessage = do ->
+exports.createMimeMessage = do ->
 
   # *********************************
   # Create Mime Text from Mail Object
